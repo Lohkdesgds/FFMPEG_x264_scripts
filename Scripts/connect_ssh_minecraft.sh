@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ssh -i "$MINE_POTATO_KEY" "$MINE_POTATO_CONNECTION"
